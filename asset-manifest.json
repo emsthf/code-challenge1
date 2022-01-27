@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Coin-Tracker_Code-Challenge/static/js/main.c6ae9a7e.js",
-    "index.html": "/Coin-Tracker_Code-Challenge/index.html",
-    "main.c6ae9a7e.js.map": "/Coin-Tracker_Code-Challenge/static/js/main.c6ae9a7e.js.map"
+    "main.js": "/code-challenge1/static/js/main.89c198b8.js",
+    "index.html": "/code-challenge1/index.html",
+    "main.89c198b8.js.map": "/code-challenge1/static/js/main.89c198b8.js.map"
   },
   "entrypoints": [
-    "static/js/main.c6ae9a7e.js"
+    "static/js/main.89c198b8.js"
   ]
 }
