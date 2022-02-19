@@ -55,5 +55,5 @@
     "@types/react-router-dom": "^5.3.3",
     "@types/styled-components": "^5.1.20"
   },
-  "homepage": "https://emsthf.github.io/code-challenge1"
+  "homepage": "https://emsthf.github.io/coin-tracker"
 }
